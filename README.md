@@ -1,5 +1,7 @@
 # San-Fransisco-Bay-Area-Bike-Sharing-Investigation
 
+<img src="https://www.dreamstime.com/editorial-photo-san-francisco-bike-sharing-usa-april-bay-area-share-station-usa-babs-started-has-stations-bicycles-image50425576" alt="Bike Sharing" style="max-width: 100%;">
+
 In this project, I analyse the Bike sharing datasets for the [first quarter of 2019](https://s3.amazonaws.com/fordgobike-data/index.html) to find the factors affecting biking durations. 
 
 The dataset is distributed in four different files with each file showing the data for a month. These files were merged together and missing values and outliers were taken care of for quality analysis.
