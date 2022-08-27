@@ -9,16 +9,19 @@ The systems themselves include both docking and dockless systems, where docking 
 
 
 ## Method
-In this project, I analyse the Bike sharing datasets for the [first quarter of 2019](https://s3.amazonaws.com/fordgobike-data/index.html) to find the factors affecting biking durations. 
 
+### Data
+In this project, I analyse the bike sharing datasets of San Fransisco Bay Area for the [first quarter of 2019](https://s3.amazonaws.com/fordgobike-data/index.html) to find the factors affecting biking durations. 
+
+### Data Wrangling
 The dataset is distributed in four different files with each file showing the data for a month. These files were merged together and missing values and outliers were taken care of for quality analysis.
 
-I extracted only the features of interest and explored their distributions with histograms and column charts. I then check the relationships between the variables of interest using scatter plots and heat maps. I also study how other variables like age, hour, user type, and gender can affect the biking durations using multivariate plots. 
+### Feature engineering and analyses
+I extracted only the features of interest, engineered new ones and explored their distributions with histograms and column charts. I then check the relationships between the variables of interest using scatter plots and heat maps. I also studied how other variables like age, hour, user type, and gender can affect the biking durations using multivariate plots. 
 
 
 ## Findigs
-I investigated the factors that may affect the duration taken by a biker in each biking cycle. In my investigation I noted the following:
-
+The following findings were noted:
 - most of the bikers are, most likely, 9-5 workers as the 8th and the 17th hours are the busiest.
 - most of the rides happened during the daytime 
 - there are almost equal proportions of different genders in each hour of the day that share bikes
