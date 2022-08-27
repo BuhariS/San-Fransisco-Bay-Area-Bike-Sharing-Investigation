@@ -1,6 +1,6 @@
 # San-Fransisco-Bay-Area-Bike-Sharing-Investigation
 
-<img src="https://images.app.goo.gl/RWsoiAiuYgibVkpi6" alt="Bike Sharing" style="max-width: 100%;">
+<img src="bike.jpg" alt="Bike Sharing" style="max-width: 100%;">
 
 In this project, I analyse the Bike sharing datasets for the [first quarter of 2019](https://s3.amazonaws.com/fordgobike-data/index.html) to find the factors affecting biking durations. 
 
