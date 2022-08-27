@@ -24,7 +24,7 @@ Two files, namely: Part_I_exploration and Part_II_explanation were produced in t
 
 **Note**: Part_II_explanation is a slide in HTML which can be viewed in a web browser.
 
-## Findigs
+## Findings
 The following findings were noted:
 - most of the bikers are, most likely, 9-5 workers as the 8th and the 17th hours are the busiest.
 - most of the rides happened during the daytime 
