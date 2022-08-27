@@ -19,6 +19,10 @@ The dataset is distributed in four different files with each file showing the da
 ### Feature engineering and analyses
 I extracted only the features of interest, engineered new ones and explored their distributions with histograms and column charts. I then check the relationships between the variables of interest using scatter plots and heat maps. I also studied how other variables like age, hour, user type, and gender can affect the biking durations using multivariate plots. 
 
+### Files
+Two files, namely: Part_I_exploration and Part_II_explanation were produced in this project. The Part_I_exploration shows the exploratory data analyses and Part_II_explanation communicates the key findings.
+
+**Note**: Part_II_explanation is a slide in HTML which can be viewed in a web browser.
 
 ## Findigs
 The following findings were noted:
