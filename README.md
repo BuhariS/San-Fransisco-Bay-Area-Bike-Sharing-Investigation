@@ -25,13 +25,21 @@ Two files, namely: Part_I_exploration and Part_II_explanation were produced in t
 **Note**: Part_II_explanation is a slide in HTML which can be viewed in a web browser.
 
 ## Findings
-The following findings were noted:
-- most of the bikers are, most likely, 9-5 workers as the 8th and the 17th hours are the busiest.
-- most of the rides happened during the daytime 
-- there are almost equal proportions of different genders in each hour of the day that share bikes
-- a good number of those who took rides between 3:00 PM to 2:00 AM ended up spending close to one day before checking in.
-- rides between 3:00 AM and 6:00 AM rarely exceed a 15-hour duration
-- most of the rides by the other gender lasted less than an hour.
-- riders above 60 years of age and teenagers are less likely to ride a bike for longer durations.
-- most of those that take longer durations are in the age range of 20-40
-- the user type is not a determinant of biking duration.
+
+Key findings from the analysis include:
+
+1. Peak Hours: The busiest hours for biking are typically around 8 AM and 5 PM, indicating that a significant portion of riders are likely 9-5 workers.
+
+2. Daytime Rides: The majority of rides occur during the daytime, suggesting that biking is more common during daylight hours.
+
+3. Gender Distribution: Across different hours of the day, the proportion of different genders sharing bikes is relatively equal, indicating a balanced gender participation in bike rides.
+
+4. Long Rides in the Evening: A considerable number of riders who took rides between 3:00 PM and 2:00 AM ended up spending close to a full day before returning the bike, indicating potential overnight rentals or extended usage.
+
+5. Short Rides in Early Morning: Rides between 3:00 AM and 6:00 AM rarely exceed a duration of 15 hours, indicating shorter rides during these early morning hours.
+
+6. Biking Duration by Gender: Most rides by individuals of the "other" gender tend to be shorter, lasting less than an hour, compared to rides by other genders.
+
+7. Age and Duration: Riders above 60 years of age and teenagers are less likely to engage in longer bike rides, while individuals in the age range of 20-40 tend to have longer durations.
+
+8. User Type and Duration: The analysis suggests that user type does not significantly impact biking duration, implying that both customers and subscribers have similar ride durations.
