@@ -1,4 +1,4 @@
-# San-Fransisco-Bay-Area-Bike-Sharing-Investigation
+# Investigation of the factors affecting the biking duration in San Fransisco Bay Area Bike Sharing Scheme
 
 <img src="bike.jpg" alt="Bike Sharing" style="max-width: 100%;">
 
