@@ -1,16 +1,16 @@
-# Investigation of the factors affecting the biking duration in San Francisco Bay Area Bike Sharing Scheme
+# Investigation of the factors affecting the biking duration in the San Francisco Bay Area Bike Sharing Scheme
 
 <img src="bike.jpg" alt="Bike Sharing" style="max-width: 100%;">
 
 ## Overview
-A bicycle-sharing system or public bike share (PBS) scheme, is a shared transport service where bicycles are available for shared use to individuals on a short-term basis at low or zero cost. It was initiated as way to promote bicycles as a non-polluting form of transportation. [see](https://en.wikipedia.org/wiki/Bicycle-sharing_system)
+A bicycle-sharing system or public bike share (PBS) scheme, is a shared transport service where bicycles are available for shared use to individuals on a short-term basis at low or zero cost. It was initiated as a way to promote bicycles as a non-polluting form of transportation. [see](https://en.wikipedia.org/wiki/Bicycle-sharing_system)
 
 The systems themselves include both docking and dockless systems, where docking systems allow users to borrow a bike from a dock, i.e., a technology-enabled bicycle rack and return at another node or dock within the system — and dockless systems offer a node-free system relying on smart technology. In either format, systems may incorporate smartphone web mapping to locate available bikes and docks.[see](https://en.wikipedia.org/wiki/Bicycle-sharing_system)
 
-In this project, we gleaned valuable insights into bike sharing patterns and user behaviours. By examining various factors such as ride duration, user age, gender, and user type, we uncovered trends, correlations, and patterns within the dataset. Through visualizations and statistical analysis, we explored the impact of these variables on bike usage and identify key factors that influence biking behaviours. The outcomes of this project will provide valuable information for the bike sharing company to optimize their resources, understand user preferences, tailor marketing strategies, and enhance the overall biking experience.
+In this project, we gleaned valuable insights into bike-sharing patterns and user behaviours. By examining various factors such as ride duration, user age, gender, and user type, we uncovered trends, correlations, and patterns within the dataset. Through visualizations and statistical analysis, we explored the impact of these variables on bike usage and identified key factors that influence biking behaviours. The outcomes of this project will provide valuable information for the bike-sharing company to optimize their resources, understand user preferences, tailor marketing strategies, and enhance the overall biking experience.
 
 ### Data Description
-In this project, I analyse the bike sharing datasets of San Fransisco Bay Area for the [first quarter of 2019](https://s3.amazonaws.com/fordgobike-data/index.html).
+In this project, I analyse the bike-sharing datasets of the San Fransisco Bay Area for the [first quarter of 2019](https://s3.amazonaws.com/fordgobike-data/index.html).
 
 ### Dependencies
 To run this project successfully, one needs to install and import the following dependencies:
@@ -21,7 +21,7 @@ To run this project successfully, one needs to install and import the following 
 
 ## Data Wrangling and Feature Engineering
 The dataset for this project consists of four separate files, each representing data for a specific month. These files have been merged together to create a unified dataset. In order to ensure data quality, missing values and outliers have been addressed through careful analysis and appropriate treatments. 
-After merging the dataset, I focused on extracting only the features that are relevant to our analysis. Additionally, I performed feature engineering to create new variables that could provide deeper insights into the bike sharing data. 
+After merging the dataset, I focused on extracting only the features that are relevant to our analysis. Additionally, I performed feature engineering to create new variables that could provide deeper insights into the bike-sharing data. 
 
 ## Exploratory Data Analysis
 During the exploratory data analysis (EDA) phase, I employed various visualizations to gain a deeper understanding of the dataset. By utilizing histograms and column charts, I examined the distributions of the variables, allowing me to identify any notable patterns or trends. Additionally, I explored the relationships between the variables of interest by employing scatter plots and heat maps, uncovering any potential correlations or dependencies. Furthermore, I delved into the impact of other variables, such as age, hour, user type, and gender, on biking durations through the use of insightful multivariate plots. This comprehensive analysis provided valuable insights into the dataset, enabling me to draw meaningful conclusions and make informed decisions based on the observed patterns and relationships.
